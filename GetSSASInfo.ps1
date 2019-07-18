@@ -14,4 +14,4 @@ Add-Type -AssemblyName 'Microsoft.AnalysisServices, Version=14.0.0.0, Culture=ne
         Write-Output ("DatabaseName: {0} Size: {1} Version: {2}" -f 
         $db.Name, $db.EstimatedSize, $db.Version)
     }
-}#END FUNCTION GETSSASINFO
+}#END FUNCTION GETSSASINFO 

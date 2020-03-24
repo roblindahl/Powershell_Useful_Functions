@@ -1,2 +1,2 @@
-# Powershell_UsefulFunctions
-Things i have found useful over the years in IT/DBA work. 
+# Powershell_Useful_Functions
+Things I have found useful over the years in IT/DBA work. 
